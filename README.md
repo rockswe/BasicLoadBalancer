@@ -1,6 +1,5 @@
 <html>
   <head>
-    <!-->empty<!-->
   </head>
   <body>
     <h1>Basic Load Balancer</h1>
