@@ -1,2 +1,10 @@
-# Basic Load Balancer
-This is a basic TCP load balancer.
+<html>
+  <head>
+    <!-->empty<!-->
+  </head>
+  <body>
+    <h1>Basic Load Balancer</h1>
+    <h3>How does it work?</h3>
+    <p></p>
+  </body>
+</html>
