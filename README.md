@@ -9,5 +9,6 @@
     <p>The program uses round-robin load balancing algorithm to select a backend server for each incoming connection, as indicated by the 'chooseBackend' function call.</p>
     <h3>Purpose?</h3>
     <p>The purpose of this server is to act as a load balancer or proxy, distributing client requests evenly across multiple backend servers to manage load and ensure high availability.</p>
+    ```git init```
   </body>
 </html>
